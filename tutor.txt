@@ -1,7 +1,7 @@
 1. bikin repo di local
 2. bikin repo di github // bikin nama yang sama tanpa initialize file README
 3. liat opsi ke 2 -> …or push an existing repository from the command line
-4. tambahkan remote -> git remote <namaremote> <urlremote>
-    - git remote local https://github.com/budi-afk/git-local-to-github.git
+4. tambahkan remote -> git remote add <namaremote> <urlremote>
+    - git remote add local https://github.com/budi-afk/git-local-to-github.git
 5. cara push ke github -> git push -u <namaremote> <branch>
     - git push -u local master
